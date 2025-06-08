@@ -1,0 +1,12 @@
+streamlit
+llama-index>=0.10.33
+llama-index-vector-stores-qdrant
+llama-index-embeddings-fastembed
+llama-index-llms-langchain
+qdrant-client>=1.6.0
+langchain>=0.1.14
+langchain-community>=0.0.26
+langchain-google-genai>=0.0.5
+duckduckgo-search>=3.9
+dspy-ai>=2.4.2
+tqdm
