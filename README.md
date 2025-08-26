@@ -4,6 +4,8 @@ An AI-powered mathematics tutor that combines RAG (Retrieval-Augmented Generatio
 
 
 **Features:**
+
+
 ->Math-only Focus → Accepts and answers only mathematics-related queries (algebra, calculus, geometry, statistics, etc.).
 
 
@@ -23,6 +25,8 @@ An AI-powered mathematics tutor that combines RAG (Retrieval-Augmented Generatio
 
 
 **Tech Stack:**
+
+
 ->LLM: Google Gemini(via langchain-google-genai)
 
 
@@ -42,6 +46,8 @@ An AI-powered mathematics tutor that combines RAG (Retrieval-Augmented Generatio
 
 
 **⚙️ How It Works:**
+
+
 1)Query Pre-Check → A classifier determines if the question is math-related.
 
 
