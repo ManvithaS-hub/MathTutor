@@ -98,4 +98,6 @@ python main.py
 -Allow users (students/teachers) to rate answers, helping the agent continuously improve.
 -Store feedback for iterative fine-tuning of the knowledge base and reasoning pipeline.
 
+---
+
 
