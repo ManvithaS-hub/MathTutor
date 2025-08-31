@@ -94,9 +94,9 @@ python main.py
 
   
 ### 2) Human Feedback Loop Integration
--Incorporate Reinforcement Learning from Human Feedback (RLHF) or a simple thumbs-up/down system.
--Allow users (students/teachers) to rate answers, helping the agent continuously improve.
--Store feedback for iterative fine-tuning of the knowledge base and reasoning pipeline.
+- Incorporate Reinforcement Learning from Human Feedback (RLHF) or a simple thumbs-up/down system.
+- Allow users (students/teachers) to rate answers, helping the agent continuously improve.
+- Store feedback for iterative fine-tuning of the knowledge base and reasoning pipeline.
 
 ---
 
