@@ -21,7 +21,7 @@ An AI-powered mathematics tutor that combines RAG (Retrieval-Augmented Generatio
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Component | Details |
 |-----------|---------|
@@ -33,7 +33,7 @@ An AI-powered mathematics tutor that combines RAG (Retrieval-Augmented Generatio
 
 ---
 
-##⚙️ How It Works
+## ⚙️ How It Works
 
 
 1)**Query Pre-Check:**  A classifier determines if the question is math-related.
